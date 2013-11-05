@@ -18,5 +18,16 @@
 }
 .logo {
 }
+.blockheader {
+	background-image: url(skins/default/images/bg_blockheader.png);
+	background-repeat: repeat-x;
+	border-top: 1px #b4c0d0 solid;
+	line-height: 28px;
+	padding-left: 1.5em;
+	color: #fff;
+	font-weight: bold;
+	vertical-align: middle;
+	height: 31px;
+}
 /** JexT default styles */
 
