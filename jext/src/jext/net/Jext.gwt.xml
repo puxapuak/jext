@@ -24,6 +24,6 @@
   <!-- Specify the paths for translatable code                    -->
   <source path='client'/>
   <source path='shared'/>
-  <entry-point class="jext.net.client.jextmain"/>
+  <entry-point class="jext.net.client.jextmain"/><stylesheet src="JexT.css" />
 
 </module>
